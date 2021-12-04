@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+table{
+    width: 650px;
+    height: 330px;
+    border-collapse: collapse;
+    margin: 30px auto;
+    font-size: 30px;
+}
+table th{
+    background: #FFBD4A;
+    color: black;
+    border: 5px solid #ffffff;
+}
+table td{
+    text-align: center;
+    color: #ffbd4a;
+    border: 5px solid #ffffff;
+}
